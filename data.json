@@ -1,6 +1,14 @@
 {
     "items": [
       {
+        "name of office": "TMO Jagati",
+        "url": "http://jagatilicense.bagamati.gov.np/",
+        "email": " tmodlbhaktapur@bagamati.gov.np",
+        "contact": "01-6615211",
+        "address": "Jagati Bhaktapur, Nepal",
+        "description": "Official Website of Transport Management Office Jagati Added"
+      },
+      {
         "name of office": "TMO Kaski",
         "url": "https://dlo.gandaki.gov.np/",
         "email": "drivinglicenseofficegandaki@gmail.com",
@@ -15,7 +23,7 @@
         "contact": "9857047758",
         "address": "Rupandehi, Nepal",
         "description": "Official Website of Transport Management Office Lumbini Added"
-      },
+      }
     ]
 }
      
