@@ -1,12 +1,29 @@
 {
     "items": [
       {
+        "name of office": "TMO Jagati",
+        "url": "http://jagatilicense.bagamati.gov.np/",
+        "email": " tmodlbhaktapur@bagamati.gov.np",
+        "contact": "01-6615211",
+        "address": "Jagati Bhaktapur, Nepal",
+        "description": "Official Website of Transport Management Office Jagati"
+      },
+      {
         "name of office": "TMO Kaski",
         "url": "https://dlo.gandaki.gov.np/",
         "email": "drivinglicenseofficegandaki@gmail.com",
         "contact": "9856038335",
-        "description": "Official Website of Amargadhi Municipality"
+        "address": "Gandaki Pradesh, Nepal",
+        "description": "Official Website of Transport Management Office Gandaki"
       },
+      {
+        "name of office": "TMO Lumbini",
+        "url": "http://tmolicense.lumbini.gov.np/",
+        "email": "tmo.lumbinilicense@gmail.com",
+        "contact": "9857047758",
+        "address": "Rupandehi, Nepal",
+        "description": "Official Website of Transport Management Office Lumbini"
+      }
     ]
 }
      
