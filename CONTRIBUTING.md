@@ -1,6 +1,6 @@
-Data Format
-The file will be in .json and the format of the data will be as follows (Extra fields may be added later);
-
+# Data Format
+> The file will be in .json and the format of the data will be as follows (Extra fields may be added later);
+```
 {
     "items": [
 {
@@ -13,9 +13,8 @@ The file will be in .json and the format of the data will be as follows (Extra f
 }
 ]
 }
-
-
-Contributing Guide
-Always give your branches meaningful titles.
-whenever possible, commit using conventional approaches.
-Double-check the accuracy of the data before submitting.
+```
+## Contributing Guide
+- [x] Always give your branches meaningful titles.
+- [x] whenever possible, commit using conventional approaches.
+- [x] Double-check the accuracy of the data before submitting.
