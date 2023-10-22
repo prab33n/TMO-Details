@@ -89,14 +89,6 @@
       "description": "Official Detail of Transport Management Office Thulobharyang Kathmandu"
     },
     {
-      "name of office": "TMO Baglung",
-      "url": "https://baglungtmo.dotm.gov.np/",
-      "email": "transmgbaglung@gmail.com",
-      "contact": "068-522133",
-      "address": "Baglung, Nepal",
-      "description": "Official Detail of Transport Management Office Baglung Nepal"
-    },
-    {
       "name of office": "TMO Biratnagar",
       "url": "https://morangtmso.dotm.gov.np/",
       "email": "tmo.morang@gmail.com",
@@ -143,6 +135,14 @@
       "contact": "9858422443",
       "address": "Dhangadi, Nepal",
       "description": "Official Detail of Transport Management Office Seti Nepal"
-    }
+     },
+       {
+        "name of office": "TMO  Chitwan",
+        "url": "http://chitwanyatayat.bagamati.gov.np/",
+        "email": "tmsochitwan@bagamati.gov.np",
+        "contact": "056531310",
+        "address": "Bharatpur, Chitwan, Nepal",
+        "description": "Official Detail of Department of Transport Management Bharatpur"
+      }
   ]
 }
