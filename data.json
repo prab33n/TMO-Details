@@ -119,6 +119,22 @@
       "contact": "01-4015110",
       "address": "Chabahil, Kathmandu, Nepal",
       "description": "Official Detail of Transport Management Office Chabahil Nepal"
+    },
+    {
+      "name of office": "TMO Doti",
+      "url": "https://dotitmso.dotm.gov.np/",
+      "email": "yatayatoffice@gmail.com",
+      "contact": "094440522",
+      "address": "Doti, Nepal",
+      "description": "Official Detail of Transport Management Office Doti Nepal"
+    },
+    {
+      "name of office": "TMO Dadeldhura",
+      "url": "https://dadeltmso.dotm.gov.np/",
+      "email": "yatayat.dadel@gmail.com",
+      "contact": "096410260",
+      "address": "Dadeldhura, Nepal",
+      "description": "Official Detail of Transport Management Office Dadeldhura added"
     }
   ]
 }
